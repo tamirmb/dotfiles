@@ -3,7 +3,7 @@
 dotfiles managed with stow
 
 ```
-git clone git@github.com/tamirmb/.dotfiles $HOME/.dotfiles
+git clone git@github.com/tamirmb/dotfiles $HOME/.dotfiles
 cd $HOME/.dotfiles
 stow .
 ```
